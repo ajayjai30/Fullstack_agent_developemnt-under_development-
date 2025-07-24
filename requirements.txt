@@ -1,0 +1,6 @@
+# Install packages
+langgraph 
+langchain 
+ollama
+langchain_ollama
+langchain_community
